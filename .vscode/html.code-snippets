@@ -1,0 +1,24 @@
+{
+  "HTML com lang pt-br": {
+    "prefix": "html",
+    "body": [
+      "<!DOCTYPE html>",
+      "<html lang=\"pt-br\">",
+      "  <head>",
+      "    <meta charset=\"UTF-8\">",
+      "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+      "    <title>$1</title>",
+      "  </head>",
+      "  <body>",
+      "    $0",
+      "  </body>",
+      "</html>"
+    ],
+    "description": "Cria um modelo HTML com lang=\"pt-br\""
+  },
+  "Atributo lang pt-br": {
+    "prefix": "lang",
+    "body": "lang=\"pt-br\"",
+    "description": "Insere o atributo lang com valor pt-br"
+  }
+}
